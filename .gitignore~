@@ -5,9 +5,6 @@ db.json
 node_modules/
 public/
 .deploy*/
-<<<<<<< HEAD
-_multiconfig.yml
-=======
 _multiconfig.yml
 source/_posts/*~
->>>>>>> 4d943f7edccc8cf284a18a4802a787d688080391
+source/_posts/.*~
