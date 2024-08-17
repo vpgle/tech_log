@@ -7,7 +7,7 @@ categories: linux
 
 ## 思路
 
-因为fedora37的官方repo已不提供，命令行升级的可能性已存在，所以在新硬盘上安装fedora40，把fedora37硬盘挂在到fedora40系统
+因为fedora37的官方repo已不提供，命令行升级的可能性已不存在，所以在新硬盘上安装fedora40，把fedora37硬盘挂在到fedora40系统，为后续迁移做准备
 
 ## 操作
 
@@ -24,7 +24,7 @@ categories: linux
 | /   | 300G | lvm |
 | /home | 300G | lvm |
 
-## 安装完成的一些变更
+## 安装完成后的一些变更
 
 ### 1.登录用的显示管理器用lightdm替换gdm
 
