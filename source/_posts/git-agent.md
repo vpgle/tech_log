@@ -5,7 +5,7 @@ tags: git
 ---
 
 # 终端代理
-## mac 终端下，使用bash 的 export ALL_PROXY=socks5://127.0.0.1:7890
+## mac 终端下，使用bash 的 export ALL_PROXY=socks5://127.0.0.1:port
 然后在 curl -I https://google.com
 
 有返回一般都是正常的。
