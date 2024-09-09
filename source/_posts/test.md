@@ -2,7 +2,7 @@
 title: test
 date: 2024-08-07 21:22:08
 tags: anything,hexo
-categories: 生活，杂
+categories:
 ---
 # 安装hexo
 ## 在linux上安装hexo
